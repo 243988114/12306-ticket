@@ -1,0 +1,14 @@
+{
+  "from_station": "杭州",
+  "to_station": "郑州",
+  "travel_date": "2026-02-12",
+  "ticket_type": "adult",
+  "seat_category": "一等座",
+  "seat_position_preference": "window",
+  "booking_start_time": "",
+  "target_train_number": "D230",
+  "depart_time_range": {
+    "start": "00:00",
+    "end": "23:59"
+  }
+}
